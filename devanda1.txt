@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main() {
+    if (printf("Yogendra Devanda\n")) {}
+    return 0;
+}
